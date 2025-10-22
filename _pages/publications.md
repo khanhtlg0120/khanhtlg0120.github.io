@@ -12,11 +12,6 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<h2 class="mt-4">Undergraduate Publications</h2>
-<div class="publications">
-{% bibliography --file undergraduate.bib %}
-</div>
-
 <h2 class="mt-4">Journal Articles</h2>
 <div class="publications">
 {% bibliography --file articles.bib %}
@@ -25,4 +20,9 @@ nav_order: 2
 <h2 class="mt-4">Books</h2>
 <div class="publications">
 {% bibliography --file books.bib %}
+</div>
+
+<h2 class="mt-4">Undergraduate Publications</h2>
+<div class="publications">
+{% bibliography --file undergraduate.bib %}
 </div>
