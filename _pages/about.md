@@ -23,7 +23,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 I'm currently looking for PhD positions in mathematics with a view towards problems in machine and deep learning models, in particular generative AI, large language model, and in quantum computation and quantum information.
 
 My main research interests lie at the intersection of mathematics and machine learning, focusing on the theoretical foundations of deep learning models from dynamical, geometric, and statistical perspectives. Additionally, I am passionate about quantum computation and quantum information, exploring both software (quantum machine learning, quantum algorithms, quantum error correction) and hardware applications (topological qubits and superconducting qubits). 
