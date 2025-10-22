@@ -32,14 +32,7 @@
       year: 2024 
       description:
         - Faculty Global Research with Undergraduates Fellowship from the University of Virginia Center for Global Inquiry and Innovation.
-        - Research Project ':' Random walk on Cayley graphs and unimodular random graphs.
-        
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Research Project : Random walk on Cayley graphs and unimodular random graphs.
 
 - title: Honors and Awards
   type: time_table
@@ -59,8 +52,8 @@
         - Dynamical, geometric, and statistical perspectives of generative AI, and large language models
     - title: Quantum computation and Quantum Information
       items:
-        - Software ':' quantum machine learning, quantum algorithms for mathematical problems, quantum error correction codes
-        - Hardware ':' topological quantum qubits, superconducting qubits
+        - Software : quantum machine learning, quantum algorithms for mathematical problems, quantum error correction codes
+        - Hardware : topological quantum qubits, superconducting qubits
 
 - title: Other Interests
   type: list
