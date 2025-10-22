@@ -14,15 +14,18 @@ nav_order: 2
 
 <h2 class="mt-4">Journal Articles</h2>
 <div class="publications">
-{% bibliography --file articles.bib %}
+<!-- This query selects all articles that DO NOT have category = undergraduate -->
+{% bibliography --type article --query @*[category!=undergraduate] %}
 </div>
 
 <h2 class="mt-4">Books</h2>
 <div class="publications">
-{% bibliography --file books.bib %}
+<!-- This query just selects all entries of type "book" -->
+{% bibliography --type book %}
 </div>
 
 <h2 class="mt-4">Undergraduate Publications</h2>
 <div class="publications">
-{% bibliography --file undergraduate.bib %}
+<!-- This query selects ONLY entries with category = undergraduate -->
+{% bibliography --query @*[category=undergraduate] %}
 </div>
