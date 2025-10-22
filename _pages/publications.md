@@ -9,7 +9,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <h2 class="mt-4">Journal Articles</h2>
