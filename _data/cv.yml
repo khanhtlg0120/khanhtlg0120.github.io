@@ -2,65 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Le Gia Khanh Truong
     - name: Date of Birth
-      value: 14th March 1879
+      value: 1st October 2003
     - name: Languages
-      value: English, German
+      value: Vietnamese, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor in Mathematics Education
+      institution: Ho Chi Minh University of Education, Vietnam
+      year: 2021 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Valedictorian of both Program and Faculty
+        - Thesis ':' Boundedness of Singular Stochastic Integral Operator
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Research Intern
+      institution: Institute of Mathematics - Vietnam Academy of Science and Technology, Vietnam
+      year: 2024 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Simons Foundation Fellowship.
+        - Research Project ':' Manifold Learning Methods and Applications
+    - title: Vietnam-Polymath-REU Research Intern
+      institution: Hybrid  
+      year: 2024 
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
+        - Faculty Global Research with Undergraduates Fellowship from the University of Virginia Center for Global Inquiry and Innovation.
+        - Research Project ':' Random walk on Cayley graphs and unimodular random graphs.
+        
 - title: Open Source Projects
   type: time_table
   contents:
@@ -71,27 +44,25 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025 
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Never Give Up Scholarships for Talented Students, Sponsorship program for talented studen
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Paris‑Benin‑Vietnam Vallet Scholarships, Fondation de France
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Mathematical Foundation of Machine and Deep Learning models
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Dynamical, geometric, and statistical perspectives of generative AI, and large language models
+    - title: Quantum computation and Quantum Information
       items:
-        - Description 1.
-        - Description 2.
+        - Software ':' quantum machine learning, quantum algorithms for mathematical problems, quantum error correction codes
+        - Hardware ':' topological quantum qubits, superconducting qubits
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> reading books and listening to music.
