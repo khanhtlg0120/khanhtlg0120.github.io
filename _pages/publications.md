@@ -13,8 +13,12 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<h2 class="mt-4">Journal Articles</h2>
 <div class="publications">
+{% bibliography --type article %}
+</div>
 
-{% bibliography %}
-
+<h2 class="mt-4">Books</h2>
+<div class="publications">
+{% bibliography --type book %}
 </div>
