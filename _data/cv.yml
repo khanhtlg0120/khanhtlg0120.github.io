@@ -16,7 +16,7 @@
       year: 2021 - 2025
       description:
         - Valedictorian of both Program and Faculty
-        - <>Thesis:</> Boundedness of Singular Stochastic Integral Operator
+        - <strong>Thesis:</strong> Boundedness of Singular Stochastic Integral Operator
 
 - title: Experience
   type: time_table
@@ -26,13 +26,13 @@
       year: 2024 
       description:
         - Simons Foundation Fellowship.
-        - <>Research Project:</> Manifold Learning Methods and Applications
+        - <strong>Research Project:</strong> Manifold Learning Methods and Applications
     - title: Vietnam-Polymath-REU Research Intern
       institution: Hybrid  
       year: 2024 
       description:
         - Faculty Global Research with Undergraduates Fellowship from the University of Virginia Center for Global Inquiry and Innovation.
-        - <>Research Project:</> Random walk on Cayley graphs and unimodular random graphs.
+        - <strong>Research Project:</strong> Random walk on Cayley graphs and unimodular random graphs.
 
 - title: Honors and Awards
   type: time_table
@@ -52,10 +52,10 @@
         - Dynamical, geometric, and statistical perspectives of generative AI, and large language models
     - title: Quantum computation and Quantum Information
       items:
-        - <>Software:</> quantum machine learning, quantum algorithms for mathematical problems, quantum error correction codes
-        - <>Hardware:</> topological quantum qubits, superconducting qubits
+        - <strong>Software:</strong> quantum machine learning, quantum algorithms for mathematical problems, quantum error correction codes
+        - <strong>Hardware:</strong> topological quantum qubits, superconducting qubits
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> reading books and listening to music.
+    - Read books and listen to music.
