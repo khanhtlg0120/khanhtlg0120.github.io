@@ -26,5 +26,6 @@ latest_posts:
 
 I'm currently looking for PhD positions in mathematics with a view towards problems in machine and deep learning models, in particular generative AI, large language model, and in quantum computation and quantum information.
 
-My research interests lie at the intersection of mathematics and machine learning, focusing on the theoretical foundations of deep learning models from dynamical, geometric, and statistical perspectives. Additionally, I am passionate about quantum computation and quantum information, exploring both software and hardware applications. On the software side, my focus includes quantum machine learning (QML), quantum algorithms for mathematical problems, and quantum error correction (QEC) codes. From a hardware perspective, I am interested in both theoretical and experimental research related to topological qubits and superconducting qubits.
-🔑 Keywords: mathematical foundation, generative AI, large language model, quantum computing and quantum information, quantum algorithms, quantum hardware
+My main research interests lie at the intersection of mathematics and machine learning, focusing on the theoretical foundations of deep learning models from dynamical, geometric, and statistical perspectives. Additionally, I am passionate about quantum computation and quantum information, exploring both software (quantum machine learning, quantum algorithms, quantum error correction) and hardware applications (topological qubits and superconducting qubits). 
+
+**🔑 Keywords:** mathematical foundation, generative AI, large language model, quantum computing and quantum information, quantum algorithms, quantum hardware
