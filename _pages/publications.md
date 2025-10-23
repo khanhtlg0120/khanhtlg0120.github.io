@@ -12,20 +12,14 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<h2 class="mt-4">Journal Articles</h2>
 <div class="publications">
-<!-- This query selects all articles that DO NOT have category = undergraduate -->
-{% bibliography --type article --query @*[category!=undergraduate] %}
-</div>
 
-<h2 class="mt-4">Books</h2>
-<div class="publications">
-<!-- This query just selects all entries of type "book" -->
-{% bibliography --type book %}
-</div>
+<h1>Journal Articles</h1>
+{% bibliography -f articles %}
 
-<h2 class="mt-4">Undergraduate Publications</h2>
-<div class="publications">
-<!-- This query selects ONLY entries with category = undergraduate -->
-{% bibliography --query @*[category=undergraduate] %}
-</div>
+<h1>Conference Papers</h1>
+{% bibliography -f articles %}
+
+<h1>Undergraduate Publications</h1>
+{% bibliography -f undergraduatearticles %}
+
