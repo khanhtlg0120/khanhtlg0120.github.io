@@ -23,3 +23,4 @@ nav_order: 2
 <h1>Undergraduate Publications</h1>
 {% bibliography -f undergraduatearticles %}
 
+</div>
