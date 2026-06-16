@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I receive my bachelor degree in Mathematics Education from <a href='https://www.sydney.edu.au/science/schools/school-of-mathematics-and-statistics.html'>Ho Chi Minh City University of Education</a>, ranking 1/120.
+I receive my bachelor degree in Mathematics Education from <a href='https://hcmue.edu.vn/vi/'>Ho Chi Minh City University of Education</a>, ranking 1/120.
