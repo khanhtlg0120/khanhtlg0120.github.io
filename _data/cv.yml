@@ -4,7 +4,7 @@ cv:
   email: ltru6109@sydney.edu.au
   location: Sydney, New South Wales
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: 
 
   social_networks:
     - network: X
@@ -15,16 +15,16 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street:
+    city: Sydney
+    region: New South Wales
+    postalCode: 
+    countryCode: Australia
 
   sections:
     Education:
       - institution: The University of Sydney
-        location: Sydney, Australia
+        location: 
         url: https://www.uzh.ch/
         area: Applied Mathematics and Machine Learning
         studyType: Doctor of Philosophy
@@ -34,13 +34,13 @@ cv:
           - "PhD topic: \textbf{Manifold learning in Generative models"
 
       - institution: Ho Chi Minh City University of Education
-        location: Ho Chi Minh City, Vietnam
+        location: 
         area: Mathematics
         studyType: Bachelor Degree
         start_date: 2021
         end_date: 2025
         highlights:
-          - "Bachelor Thesis: Boundedness of Singular Stochastic Integral Operator."
+          - "Thesis: Boundedness of Singular Stochastic Integral Operator."
           - "Graduated with rank 1/120."
 
     Experience:
