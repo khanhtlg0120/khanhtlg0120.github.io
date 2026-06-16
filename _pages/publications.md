@@ -15,18 +15,18 @@ nav_order: 2
 
 <div class="Publications">
 
-{% bibliography %}
+{% bibliography --query @*[category=publication]* %}
 
 </div>
 
 <div class="Preprints">
 
-{% bibliography %}
+{% bibliography --query @*[category=preprint]* %}
 
 </div>
 
 <div class="Undergraduate publications">
 
-{% bibliography %}
+{% bibliography --query @*[category=undergrad]* %}
 
 </div>
