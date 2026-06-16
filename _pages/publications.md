@@ -14,19 +14,16 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 <div class="Publications">
-
-{% bibliography --query @*[category=publication]* %}
-
+  <h2>Publications</h2>
+  {% bibliography --query @*[category=publication]* %}
 </div>
 
 <div class="Preprints">
-
-{% bibliography --query @*[category=preprint]* %}
-
+  <h2>Preprints</h2>
+  {% bibliography --query @*[category=preprint]* %}
 </div>
 
 <div class="Undergraduate publications">
-
-{% bibliography --query @*[category=undergrad]* %}
-
+  <h2>Undergraduate Publications</h2>
+  {% bibliography --query @*[category=undergrad]* %}
 </div>
