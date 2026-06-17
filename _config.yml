@@ -227,6 +227,7 @@ exclude:
   - package-lock.json
   - _pages/teaching.md
   - _pages/about_einstein.md
+  - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/books.md
   - purgecss.config.js
