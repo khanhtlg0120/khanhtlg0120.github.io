@@ -26,13 +26,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Research Interests:
+**Research Interests:**
 
 - Mathematics for Machine Learning and Generative Models: from geometrical and topological, dynamical and statistical perspectives.
 
 - Quantumm Computing: quantum algorithms, quantum machine learning, quantum error correction, topological quantum computing.
 
-Brief Biography:
+**Brief Biography:**
 
 - 2026–present: PhD Student in Applied Mathematics and Machine Learning, The University of Sydney
 - 2021-2025: Bachelor's Degree in Mathematics Education, Ho Chi Minh City University of Education
