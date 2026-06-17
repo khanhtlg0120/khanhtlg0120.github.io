@@ -34,7 +34,7 @@ Research Interests:
 
 Brief Biography:
 
-- 2026–present: PhD Student in Applied Mathematics, The University of Sydney
+- 2026–present: PhD Student in Applied Mathematics and Machine Learning, The University of Sydney
 - 2021-2025: Bachelor's Degree in Mathematics Education, Ho Chi Minh City University of Education
 
 **Contact:** ltru6109(at)sydney(dot)edu(dot)au
