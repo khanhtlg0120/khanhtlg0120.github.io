@@ -41,25 +41,43 @@ cv:
           - "Graduated with rank 1/120."
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
 
-      - company: Vietnam-Polymath-REU
-        position: Research Intern
+      - company: IVS Joint Stock Company(Individual Systems), Vietnam
+        position: Robotics Researcher
         start_date: 2025
+        end_date: 2026
         highlights:
-          - "Random walk on Cayley graphs and unimodular random graphs."
+          - "Apply incremental convex hull approach to propose a novel exact algorithm for finding the shortest path along a sequence of bundle of line segments for single mobile robot in 2D which achieve better complexity than previous methods."
+          - "Develop a novel path planning and adaptive framework for formation control of robotic system navigating in 2D occluded environment."
+
+      - company: Institute of Applied Artificial Intelligence and Robotics (IAAIR), USA
+        position: Quantum Internship Researcher
+        start_date: 2025
+        end_date: 2026
+        highlights:
+          - "Comprehensive mathematical analysis and benchmarking of current quantum algorithms, specialized in quantum k-nn, quantum support vector machine, and quantum variational algorithms"
+          - "Develop an end-to-end equivariant architecture for quantum convolutional neural networks in biomedical images classification."
+
+      - company: Institute of Mathematics - Vietnam Academy of Science and Technology, Vietnam
+        position: ndergraduate Research Intern
+        start_date: 2024
+        highlights:
+          - "Apply number theory, copula statistics, and kernel dimensional reduction methods for analysis of chemical substances over years."
+          - "Simons Foundation Fellowship, awarded to 20 top Math & CS students nationwide."
+
+      - company: Collaborative Mathematical Research for Undergraduate Students, Vietnam
+        position: Undergraduate Research Intern
+        start_date: 2023
+        end_date: 2024
+        highlights:
+          - "Prove the upper bounds of  the return probability of simple random walks on Cayley graphs of group and unimodular random graphs."
 
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
+      - title: Postgraduate Research Scholarship in Mathematics and Statistics
+        date: 2026
+        awarder: School of Mathematics and Statistics, The University of Sydney
+
+      - title: Faculty of Science Research Tuition Fee Scholarship
+        date: 2026
+        awarder: Faculty of Science, The University of Sydney
