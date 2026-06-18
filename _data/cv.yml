@@ -24,16 +24,16 @@ cv:
   sections:
     Education:
       - institution: The University of Sydney
-        area: Applied Mathematics and Machine Learning
-        studyType: Doctor of Philosophy
+        area: 
+        studyType: Doctor of Philosophy in Applied Mathematics and Machine Learning
         start_date: 2026
         end_date: "present"
         highlights:
-          - "PhD topic: **Manifold learning in Generative models**"
+          - "PhD topic: **Manifold learning in Generative models.**"
 
       - institution: Ho Chi Minh City University of Education
-        area: Mathematics
-        studyType: Bachelor Degree
+        area: 
+        studyType: Bachelor of Mathematics Education
         start_date: 2021
         end_date: 2025
         highlights:
@@ -53,7 +53,6 @@ cv:
       - company: Vietnam-Polymath-REU
         position: Research Intern
         start_date: 2025
-        end_date: 2025
         highlights:
           - "Random walk on Cayley graphs and unimodular random graphs."
 
