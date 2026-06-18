@@ -9,3 +9,11 @@ description: This is a description of the page. You can modify it in '_pages/cv.
 toc:
   sidebar: left
 ---
+
+<style>
+  /* Hides the location icon and collapses the empty second line in the left column */
+  .cv .timeline .fa-location-dot,
+  .cv .timeline .location {
+    display: none !important;
+  }
+</style>
