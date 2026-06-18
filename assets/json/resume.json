@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Le Gia Khanh Truong",
+    "label": "PhD Student at The University of Sydney",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ltru6109@sydney.edu.au",
+    "phone": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Mascot",
+      "postalCode": "2020",
+      "city": "Sydney",
+      "countryCode": "Australia",
+      "region": "New South Wales"
     },
     "profiles": []
   },
@@ -75,16 +75,14 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "The University of Sydney, Australia",
+      "area": "Applied Mathematics and Machine Learning",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2026",
+      "endDate": "present",
       "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "courses": [""],
+      "highlights": ["PhD project: Manifold learning in Generative models"]
     },
     {
       "institution": "Eidgenössische Technische Hochschule",
