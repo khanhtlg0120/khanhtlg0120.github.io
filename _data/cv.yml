@@ -42,7 +42,7 @@ cv:
 
     Experience:
 
-      - company: IVS Joint Stock Company(Individual Systems), Vietnam
+      - company: IVS Joint Stock Company (Individual Systems), Vietnam
         position: Robotics Researcher
         start_date: 2025
         end_date: 2026
@@ -59,8 +59,9 @@ cv:
           - "Develop an end-to-end equivariant architecture for quantum convolutional neural networks in biomedical images classification."
 
       - company: Institute of Mathematics - Vietnam Academy of Science and Technology, Vietnam
-        position: ndergraduate Research Intern
+        position: Undergraduate Research Intern (3 months)
         start_date: 2024
+        end_date: 2024
         highlights:
           - "Apply number theory, copula statistics, and kernel dimensional reduction methods for analysis of chemical substances over years."
           - "Simons Foundation Fellowship, awarded to 20 top Math & CS students nationwide."
