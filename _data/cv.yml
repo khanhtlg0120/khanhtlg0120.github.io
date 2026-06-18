@@ -1,39 +1,97 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Le Gia Khanh Truong
-    - name: Location
-      value: Sydney, New South Wales, Australia
+cv:
+  name: Le Gia Khanh Truong
+  label: PhD Student
+  email: ltru6109@sydney.edu.au
+  location: Sydney, New South Wales
+  image: ""
+  summary: 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Doctor of Philosophy in Applied Mathematics and Machine Learning
-      institution: The University of Sydney
-      year: 2026 - Present
-      description:
-        - 'PhD topic: Manifold learning in Generative models'
-    - title: Bachelor Degree in Mathematics
-      institution: Ho Chi Minh City University of Education
-      year: 2021 - 2025
-      description:
-        - 'Thesis: Boundedness of Singular Stochastic Integral Operator.'
-        - 'Graduated with rank 1/120.'
+  social_networks:
+    - network: X
+      username: 
+    - network: GitHub
+      username: 
+    - network: LinkedIn
+      username: 
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Intern
-      institution: Vietnam-Polymath-REU
-      year: 2025
-      description:
-        - 'Random walk on Cayley graphs and unimodular random graphs.'
+  address:
+    street:
+    city: Sydney
+    region: New South Wales
+    postalCode: 
+    countryCode: Australia
 
-- title: Skills & Interests
-  type: nested_list
-  contents:
-    - title: Research Interests
-      items:
-        - Quantum machine learning, quantum algorithms, and quantum error correction codes.
-        - Generative models and manifold learning algorithms.
+  sections:
+    Education:
+      - institution: The University of Sydney
+        area: Applied Mathematics and Machine Learning
+        studyType: Doctor of Philosophy
+        start_date: 2026
+        end_date: "present"
+        highlights:
+          - "PhD topic: **Manifold learning in Generative models**"
+
+      - institution: Ho Chi Minh City University of Education
+        area: Mathematics
+        studyType: Bachelor Degree
+        start_date: 2021
+        end_date: 2025
+        highlights:
+          - "Thesis: **Boundedness of Singular Stochastic Integral Operator.**"
+          - "Graduated with rank 1/120."
+
+    Experience:
+      - company: Institute for Advanced Study, Princeton University
+        position: Professor of Theoretical Physics
+        location: Princeton University, NJ
+        start_date: 1933
+        end_date: 1955
+        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        highlights:
+          - Relativity
+          - Description 2.
+
+      - company: California Institute of Technology
+        position: Visiting Professor
+        location: Pasadena, California, US
+        start_date: 1933
+        end_date: 1933
+        highlights:
+          - Description 1.
+          - Description 2.
+
+      - company: Kaiser Wilhelm Institute for Physics
+        position: Director
+        location: Berlin, Germany
+        start_date: 1917
+        end_date: 1933
+
+      - company: Karl-Ferdinand University
+        position: Professor of Theoretical Physics
+        location: Prague, Czechoslovakia
+        start_date: 1911
+        end_date: 1917
+
+      - company: University of Zurich
+        position: Associate Professor of Theoretical Physics
+        location: Zurich, Switzerland
+        start_date: 1909
+        end_date: 1911
+
+    Volunteer:
+      - company: People's Climate March
+        position: Lead Organizer
+        location: Zurich, Switzerland
+        start_date: 2014-04-01
+        end_date: 2015-07-01
+        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        highlights:
+          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+          - "Men of the year 2014 by Time magazine"
+
+    Awards:
+      - title: Nobel Prize in Physics
+        authors:
+          - "Royal Swedish Academy of Sciences"
+        date: 1921-11-01
+        awarder: Royal Swedish Academy of Sciences
