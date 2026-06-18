@@ -30,7 +30,7 @@ latest_posts:
 
 - Mathematics for Machine Learning and Generative Models: from geometrical and topological, dynamical and statistical perspectives.
 
-- Quantumm Computing: quantum algorithms, quantum machine learning, quantum error correction, topological quantum computing.
+- Quantum Computing: quantum algorithms, quantum machine learning, quantum error correction, topological quantum computing.
 
 **Brief Biography:**
 
